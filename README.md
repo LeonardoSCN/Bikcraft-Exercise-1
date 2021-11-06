@@ -11,7 +11,7 @@ Dark-gray: #c6c6c6
 
 Red: #ee2211
 
-#Typography
+# Typography
 
 font-family: Arial
 paragraphs: 20px
