@@ -3,7 +3,7 @@ Exercise of one page, Bikcraft - Origamid
 
 This is a one pag using flex blox and grid layout.
 
-#CSS:
+
 # Colors
 Background-color:: #f7f7f7
 Dark-gray: #c6c6c6
